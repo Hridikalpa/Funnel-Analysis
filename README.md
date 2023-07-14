@@ -1,1 +1,1 @@
-# Funnel-Analysis
+Here i have done a funnel analysis on a food ecommerce company. The Analysis is done primarily in excel with the help of inbuilt visualizations , pivot tables and data modelling. The intention is to analyze and understand the various stages of conversion and understand the reasons for drop off at each stage and provide insights for the same. Hence improving the overall conversion process
